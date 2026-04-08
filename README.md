@@ -45,9 +45,9 @@ A proposta segue uma abordagem **mão na massa**, onde cada jogo ou exercício:
 ```bash
 programacao_jogos/
 │
-├── aula_01/
-├── aula_02/
-├── aula_03/
-├── exemplos/
-├── assets/
+├── exemplo_01/
+├── exemplo_02/
+├── exemplo_03/
+├── exemplo_04/
+    └──  assets/
 └── README.md
